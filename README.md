@@ -4,6 +4,11 @@
 - 실습 데이터 : titanic, walmart sales data 
     - [titanic data](https://www.kaggle.com/competitions/titanic)
     - [walmart sales data](https://www.kaggle.com/datasets/yasserh/walmart-dataset)
+# 코드 다운로드 받는 법
+- 터미널(terminal)을 열어주시고 아래의 명령어를 입력하고 Enter를 누르시면 다운로드 됩니다. 
+```
+git clone git@github.com:ezds-jay/python_data_analytics.git
+```
 # Contents
 1. code01.ipynb 
  - 마크다운 문법, 파이썬 기초 자료형, 자료구조, 반복문, 제어문
